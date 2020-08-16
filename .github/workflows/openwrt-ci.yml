@@ -197,7 +197,7 @@ jobs:
           name: config.seed
           path: ./bin/targets/*/*/config.seed
 
-      - name: Upload firmware
+      - name: Upload firmware 
         uses: actions/upload-artifact@master
         with:
           name: OpenWrt_firmware
