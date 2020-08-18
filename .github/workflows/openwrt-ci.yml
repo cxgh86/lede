@@ -173,7 +173,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-ntpc=y
           CONFIG_PACKAGE_luci-app-pppoe-relay=y
           CONFIG_PACKAGE_luci-app-qos=y
-          CONFIG_PACKAGE_luci-app-samba=y
           CONFIG_PACKAGE_luci-app-samba4=y
           CONFIG_PACKAGE_luci-app-flowoffload=y
           CONFIG_PACKAGE_luci-app-shairplay=y
